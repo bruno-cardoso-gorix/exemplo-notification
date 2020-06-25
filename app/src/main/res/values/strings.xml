@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Timer Example</string>
+    <string name="title">Titulo da notificacao</string>
+    <string name="content">Conteudo do Mensagem</string>
+
+    <string name="channel_name">GorixChannel</string>
+    <string name="channel_description">GorixDescription</string>
+</resources>
